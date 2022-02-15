@@ -1,1 +1,1 @@
-# Open_Bullet_Config-Discord_Res_Stealer_Remover
+# Open Bullet Config - Discord Res Stealer Remover
