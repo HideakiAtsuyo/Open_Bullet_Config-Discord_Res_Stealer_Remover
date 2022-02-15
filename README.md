@@ -2,6 +2,8 @@
 
 A little example to clean res stealer in Open Bullet configs using Discord Webhooks :)
 
+[Download Built Release](https://github.com/HideakiAtsuyo/Open_Bullet_Config-Discord_Res_Stealer_Remover/releases/download/1.0/Debug.rar)
+
 ```cs
 using Leaf.xNet;
 using Newtonsoft.Json.Linq;
